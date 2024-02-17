@@ -1,0 +1,35 @@
+{
+    "nouns": [
+      "cat",
+      "dog",
+      "tree",
+      "book",
+      "computer",
+      "ocean"
+    ],
+    "verbs": [
+      "run",
+      "jump",
+      "read",
+      "write",
+      "swim",
+      "sing"
+    ],
+    "adjectives": [
+      "happy",
+      "bright",
+      "curious",
+      "energetic",
+      "mysterious",
+      "calm"
+    ],
+    "adverbs": [
+      "quickly",
+      "slowly",
+      "loudly",
+      "softly",
+      "carefully",
+      "happily"
+    ]
+  }
+  
